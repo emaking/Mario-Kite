@@ -1,10 +1,10 @@
 # MARIO KITE
 
-**A kitesurf game in 3D  (2003 Blitz3d POC)**
+_A kitesurf game in 3D  (2003 Blitz3d POC)_
 
 ## Screenshots
 
-### Mario
+### _Mario_
 
 ![Water](https://github.com/emaking/Mario-Kite/blob/master/Shooting/water.jpg)
 ![Wavy](https://github.com/emaking/Mario-Kite/blob/master/Shooting/wavy.jpg)
@@ -12,7 +12,7 @@
 ![Mario](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Mario Kite.jpg)
 
 
-### Jumps
+### _Jumping_
 
 
 ![Kite loop 3](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Kite_Loop_3.jpg)
@@ -21,14 +21,14 @@
 ![Speed flip](https://github.com/emaking/Mario-Kite/blob/master/Shooting/speed_flip.jpg)
 
 
-### Surf
+### _Surfing_
 
 ![Aerial](https://github.com/emaking/Mario-Kite/blob/master/Shooting/aerial.jpg)
 ![Surf](https://github.com/emaking/Mario-Kite/blob/master/Shooting/surf.jpg)
 ![Off the lip](https://github.com/emaking/Mario-Kite/blob/master/Shooting/off_the_lip.jpg)
 
 
-### Sharks
+### _Sharks_
 
 ![Shark](https://github.com/emaking/Mario-Kite/blob/master/Shooting/shark.jpg)
 ![Shark attack](https://github.com/emaking/Mario-Kite/blob/master/Shooting/shark_attack.jpg)
@@ -75,7 +75,7 @@
 ## Code 
 
 As this is my very first proof of concept in Blitz3d (2003), code is naturally _auto_ obfuscated :-1:
-```sh
+```
 ;Any improvement will be **highly welcome** !
 
 ```
