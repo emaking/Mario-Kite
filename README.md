@@ -1,6 +1,6 @@
 # MARIO KITE
 
-_A kitesurf game in 3D  (2003 Blitz3d POC)_
+_A 3d kitesurf game (2003 Blitz3d POC)_
 
 ## Screenshots
 
