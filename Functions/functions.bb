@@ -103,7 +103,7 @@ Function LoadEnviron()
 	
 
 	;tree 
-	For k=1 To 1500
+	For k=1 To 1000
 		Repeat
 			tx#=Rnd(-100,5500)
 			tz#=Rnd(700,3000)
