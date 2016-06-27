@@ -1,5 +1,5 @@
-# Mario-Kite
-Kitesurfing in Blitz3d - POC 
+# Mario Kite
+Kitesurfing with Blitz3d - POC 
 -----------------------
 ![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/water.jpg)
 ![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/jump.jpg)
