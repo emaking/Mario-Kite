@@ -1,35 +1,63 @@
 # Mario Kite
-Kitesurfing with Blitz3d - POC 
------------------------
-![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/water.jpg)
-![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/jump.jpg)
-![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Kite_Loop.jpg)
-![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/off_the_lip.jpg)
-![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/speed_loop.jpg)
-![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/surf.jpg)
-![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Takoon.jpg)
-![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/wavy.jpg)
------------------------
-## Controls :
-* Kite :
-  * Numpad 7 :   left turn
-  * Numpad 9 :   right turn
 
-* Board
-  * Numpad 4 : left turn
-  * Numpad 1 : strong left turn
-  * Numpad 6 : right turn
-  * Numpad 3 : strong right turn
+## A kitesurf game in 3D  (2003 Blitz3d POC)
 
-* Mario
-  * Numpad 5 : Jump
-  * Numpad + : Fly
+## Screenshots
 
-* Game 
-  * F1 : play / pause
+### Mario
+![Water](https://github.com/emaking/Mario-Kite/blob/master/Shooting/water.jpg)
+![Easy](https://github.com/emaking/Mario-Kite/blob/master/Shooting/easy.jpg)
+![Wavy](https://github.com/emaking/Mario-Kite/blob/master/Shooting/wavy.jpg)
+![Jump](https://github.com/emaking/Mario-Kite/blob/master/Shooting/jump.jpg)
+![Mario](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Mario Kite.jpg)
+
+
+### Groupies
+![Speed loop](https://github.com/emaking/Mario-Kite/blob/master/Shooting/speed_loop.jpg)
+![Speed flip](https://github.com/emaking/Mario-Kite/blob/master/Shooting/speed_flip.jpg)
+![Back twist](https://github.com/emaking/Mario-Kite/blob/master/Shooting/back_twist.jpg)
+
+
+### Kite loop
+![Kite loop 2](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Kite_Loop_2.jpg)
+![Kite loop 3](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Kite_Loop_3.jpg)
+
+
+### Surf
+![Aerial](https://github.com/emaking/Mario-Kite/blob/master/Shooting/aerial.jpg)
+![Off the lip](https://github.com/emaking/Mario-Kite/blob/master/Shooting/off_the_lip.jpg)
+![Surf](https://github.com/emaking/Mario-Kite/blob/master/Shooting/surf.jpg)
+
+
+### Sharks
+![Shark](https://github.com/emaking/Mario-Kite/blob/master/Shooting/shark.jpg)
+![Shark attack](https://github.com/emaking/Mario-Kite/blob/master/Shooting/shark_attack.jpg)
+
+ 
+## Install
+- Download & unzip archive
+- Double click MarioKite.exe
+
+## USAGE 
+* **Game** 
+  * F1 : Play / Pause
   * Escape : Quit
+  
+* **Kite**
+  * Numpad 7 : Left turn
+  * Numpad 9 : Right turn
 
-* Camera
+* **Board**
+  * Numpad 4 : Left turn
+  * Numpad 1 : Strong left turn
+  * Numpad 6 : Right turn
+  * Numpad 3 : Strong right turn
+
+* **Mario**
+  * Numpad 5 : Jump
+  * Numpad + : Fly 
+
+* **Camera**
   * 1 : Look right
   * 2 : Look left
   * 3 : Look up
