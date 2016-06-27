@@ -89,5 +89,5 @@ As this is my very first **proof of concept** in Blitz3d (2003), code is natural
 
 ```
 
-Anyway, i've still got a lot of ideas for any kind of concept like this "Mario Kite" :+1::+1::+1:
+Anyway, i still have a lot of ideas for any kind of concept like this "Mario Kite" :+1::+1::+1:
 
