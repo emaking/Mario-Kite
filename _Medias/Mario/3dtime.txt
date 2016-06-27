@@ -1,0 +1,15 @@
+time3d :  date: Sun Nov 16 22:35:43 2003
+
+  setp: 20 deg., dis: 86.6025
+  Nb. Polygons : 0
+  Transform time : 60
+  Project time : 0
+  Sort time : 0
+  Clip time : 50
+  Scan time : 160
+  Flat draw time : 2590
+  Gouraud draw time : 0
+  Texture draw time : 0
+  Total draw time : 3130
+
+
