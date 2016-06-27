@@ -1,4 +1,4 @@
-# Mario Kite
+# MARIO KITE
 
 **A kitesurf game in 3D  (2003 Blitz3d POC)**
 
@@ -7,7 +7,6 @@
 ### Mario
 
 ![Water](https://github.com/emaking/Mario-Kite/blob/master/Shooting/water.jpg)
-![Easy](https://github.com/emaking/Mario-Kite/blob/master/Shooting/easy.jpg)
 ![Wavy](https://github.com/emaking/Mario-Kite/blob/master/Shooting/wavy.jpg)
 ![Jump](https://github.com/emaking/Mario-Kite/blob/master/Shooting/jump.jpg)
 ![Mario](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Mario Kite.jpg)
@@ -15,18 +14,18 @@
 
 ### Jumps
 
-![Speed loop](https://github.com/emaking/Mario-Kite/blob/master/Shooting/speed_loop.jpg)
-![Kite loop 2](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Kite_Loop_2.jpg)
+
 ![Kite loop 3](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Kite_Loop_3.jpg)
-![Speed flip](https://github.com/emaking/Mario-Kite/blob/master/Shooting/speed_flip.jpg)
+![Speed loop](https://github.com/emaking/Mario-Kite/blob/master/Shooting/speed_loop.jpg)
 ![Back twist](https://github.com/emaking/Mario-Kite/blob/master/Shooting/back_twist.jpg)
+![Speed flip](https://github.com/emaking/Mario-Kite/blob/master/Shooting/speed_flip.jpg)
 
 
 ### Surf
 
 ![Aerial](https://github.com/emaking/Mario-Kite/blob/master/Shooting/aerial.jpg)
-![Off the lip](https://github.com/emaking/Mario-Kite/blob/master/Shooting/off_the_lip.jpg)
 ![Surf](https://github.com/emaking/Mario-Kite/blob/master/Shooting/surf.jpg)
+![Off the lip](https://github.com/emaking/Mario-Kite/blob/master/Shooting/off_the_lip.jpg)
 
 
 ### Sharks
@@ -40,7 +39,7 @@
 - Download & unzip archive
 - Double click MarioKite.exe
 
-## USAGE 
+## Usage 
 
 * **Game** 
   * F1 : Play / Pause
@@ -71,4 +70,13 @@
   * F6 : Move front wind
   * F7 : Move right
   * F8 : Move left
-  * F12 : capture bmp image
+  * F12 : Capture bmp image
+
+## Code 
+
+As this is my very first proof of concept in Blitz3d (2003), code is naturally _auto_ obfuscated :-1:
+```sh
+;Any improvement will be **highly welcome** !
+
+```
+Anyway, still ready for any serious plan with a **lot** of ideas :+1::+1::+1:
