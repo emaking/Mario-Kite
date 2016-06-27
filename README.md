@@ -1,9 +1,16 @@
 # Mario-Kite
 Kitesurfing in Blitz3d - POC 
-
 -----------------------
-
-Controls :
+![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/water.jpg)
+![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/jump.jpg)
+![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Kite_Loop.jpg)
+![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/off_the_lip.jpg)
+![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/speed_loop.jpg)
+![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/surf.jpg)
+![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Takoon.jpg)
+![Alt text](https://github.com/emaking/Mario-Kite/blob/master/Shooting/wavy.jpg)
+-----------------------
+## Controls :
 * Kite :
   * Numpad 7 :   left turn
   * Numpad 9 :   right turn
