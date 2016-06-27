@@ -83,11 +83,11 @@ _3D kitesurf game (2003 Blitz3d POC)_
   
 ## Code 
   
-As this is my very first **proof of concept** in Blitz3d (2003), code is naturally _auto_ obfuscated :-1:
+As this is my very first **proof of concept** in Blitz3d (2003), code is naturally _auto_ obfuscated...
 ```
-;Any improvement will be **highly welcome** !
+;Any improvement will be **highly welcome** !  :+1::+1::+1:
 
 ```
 
-Anyway, i still have a lot of ideas for any kind of concept like this "Mario Kite" :+1::+1::+1:
+
 
