@@ -6,8 +6,8 @@ _A kitesurf game in 3D  (2003 Blitz3d POC)_
 
 ### _Mario_
 
-![Water](https://github.com/emaking/Mario-Kite/blob/master/Shooting/water.jpg)
 ![Wavy](https://github.com/emaking/Mario-Kite/blob/master/Shooting/wavy.jpg)
+![Water](https://github.com/emaking/Mario-Kite/blob/master/Shooting/water.jpg)
 ![Jump](https://github.com/emaking/Mario-Kite/blob/master/Shooting/jump.jpg)
 ![Mario](https://github.com/emaking/Mario-Kite/blob/master/Shooting/Mario Kite.jpg)
 
@@ -70,7 +70,7 @@ _A kitesurf game in 3D  (2003 Blitz3d POC)_
   * F6 : Move front wind
   * F7 : Move right
   * F8 : Move left
-  * F12 : Capture bmp image
+  * F12 : Capture image to bmp (_named "0" in root folder_)
 
 ## Code 
 
